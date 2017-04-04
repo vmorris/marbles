@@ -12,7 +12,7 @@
         "cas": [
             {
                 "name": "fabric-ca-2a",
-                "api": "http://ldn1-zbc5a.2.secure.blockchain.ibm.com:55312" (http://ldn1-zbc5a.2.secure.blockchain.ibm.com:55312%27),
+                "api": "http://ldn1-zbc5a.2.secure.blockchain.ibm.com:55312",
                 "msp_id": "PeerOrg2",
                 "users": [
                     {
